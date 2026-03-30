@@ -52,17 +52,6 @@ Aplicação com lógica de contas correntes e poupança, aplicando conceitos de 
 
 ---
 
-## 📈 Estatísticas
-
-<div>
-  <a href="https://github.com/lucaaas-araujo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaaas-araujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaas-araujo&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ## 🎯 Objetivo
 
 Busco minha primeira oportunidade como desenvolvedor, onde eu possa aprender, crescer profissionalmente e contribuir com soluções reais.
