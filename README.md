@@ -66,19 +66,6 @@ const lucas = {
 
 ---
 
-## 📌 Projeto em destaque
-
-### 🏥 SafeLife API (em desenvolvimento)
-
-API REST para gestão de usuários, beneficiários e planos de seguro.
-
-- 🔐 Autenticação com JWT  
-- 📄 CRUD completo  
-- 🧱 Arquitetura com NestJS  
-- ☁️ Deploy em nuvem (em breve)  
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
